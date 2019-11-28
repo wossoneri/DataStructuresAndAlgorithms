@@ -41,6 +41,7 @@
 		8F82AA64238E11AF0006CF71 = {
 			isa = PBXGroup;
 			children = (
+				8F82AA77238E13DE0006CF71 /* LinkedList */,
 				8F82AA6F238E11AF0006CF71 /* Cpp */,
 				8F82AA6E238E11AF0006CF71 /* Products */,
 			);
@@ -60,6 +61,13 @@
 				8F82AA70238E11AF0006CF71 /* main.cpp */,
 			);
 			path = Cpp;
+			sourceTree = "<group>";
+		};
+		8F82AA77238E13DE0006CF71 /* LinkedList */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = LinkedList;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
