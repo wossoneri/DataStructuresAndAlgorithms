@@ -66,7 +66,7 @@
                       <option name="index" value="1" />
                       <option name="name" value="Hello, world!" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -94,7 +94,7 @@
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="&quot;OK&quot;" />
                                       <option name="selected" value="true" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                     </AnswerPlaceholder>
                                   </list>
@@ -139,7 +139,7 @@
                       <option name="index" value="2" />
                       <option name="name" value="Java to Kotlin conversion" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -167,7 +167,7 @@
                                       <option name="placeholderText" value="fun toJSON(collection: Collection&lt;Int&gt;): String = TODO()" />
                                       <option name="possibleAnswer" value="fun toJSON(collection: Collection&lt;Int&gt;): String {&#10;    val sb = StringBuilder()&#10;    sb.append(&quot;[&quot;)&#10;    val iterator = collection.iterator()&#10;    while (iterator.hasNext())&#10;    {&#10;        val element = iterator.next()&#10;        sb.append(element)&#10;        if (iterator.hasNext())&#10;        {&#10;            sb.append(&quot;, &quot;)&#10;        }&#10;    }&#10;    sb.append(&quot;]&quot;)&#10;    return sb.toString()&#10;}" />
                                       <option name="selected" value="true" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                     </AnswerPlaceholder>
                                   </list>
@@ -226,7 +226,7 @@
                       <option name="index" value="3" />
                       <option name="name" value="Named arguments" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -248,18 +248,18 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
+                                      <option name="length" value="27" />
                                       <option name="offset" value="68" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="prefix = &quot;[&quot;, postfix = &quot;]&quot;" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="fun joinOptions(options: Collection&lt;String&gt;) = options.joinToString(TODO())&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -299,7 +299,7 @@
                       <option name="index" value="4" />
                       <option name="name" value="Default arguments" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -321,18 +321,18 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="56" />
+                                      <option name="length" value="69" />
                                       <option name="offset" value="0" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="fun foo(name: String, number: Int, toUpperCase: Boolean)" />
                                       <option name="possibleAnswer" value="fun foo(name: String, number: Int = 42, toUpperCase: Boolean = false)" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="fun foo(name: String, number: Int, toUpperCase: Boolean) =&#10;        (if (toUpperCase) name.toUpperCase() else name) + number&#10;&#10;fun useFoo() = listOf(&#10;        foo(&quot;a&quot;),&#10;        foo(&quot;b&quot;, number = 1),&#10;        foo(&quot;c&quot;, toUpperCase = true),&#10;        foo(name = &quot;d&quot;, number = 2, toUpperCase = true)&#10;)&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -372,7 +372,7 @@
                       <option name="index" value="5" />
                       <option name="name" value="Lambdas" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -394,18 +394,18 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
+                                      <option name="length" value="11" />
                                       <option name="offset" value="74" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="it % 2 == 0" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="fun containsEven(collection: Collection&lt;Int&gt;): Boolean = collection.any { TODO() }&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -445,7 +445,7 @@
                       <option name="index" value="6" />
                       <option name="name" value="Strings" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -467,18 +467,18 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
+                                      <option name="length" value="26" />
                                       <option name="offset" value="92" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="&quot;&quot;&quot;\d{2} ${month} \d{4}&quot;&quot;&quot;" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="val month = &quot;(JAN|FEB|MAR|APR|MAY|JUN|JUL|AUG|SEP|OCT|NOV|DEC)&quot;&#10;&#10;fun getPattern(): String = TODO()&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -518,7 +518,7 @@
                       <option name="index" value="7" />
                       <option name="name" value="Data classes" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -540,18 +540,18 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="12" />
+                                      <option name="length" value="53" />
                                       <option name="offset" value="0" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="class Person" />
                                       <option name="possibleAnswer" value="data class Person(val name: String, val age: Int)" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="class Person&#10;&#10;fun getPeople(): List&lt;Person&gt; {&#10;    return listOf(Person(&quot;Alice&quot;, 29), Person(&quot;Bob&quot;, 31))&#10;}&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -591,7 +591,7 @@
                       <option name="index" value="8" />
                       <option name="name" value="Nullable types" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -613,18 +613,18 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
+                                      <option name="length" value="132" />
                                       <option name="offset" value="90" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="val email = client?.personalInfo?.email&#10;    if (email != null &amp;&amp; message != null) {&#10;        mailer.sendMessage(email, message)&#10;    }" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="fun sendMessageToClient(&#10;        client: Client?, message: String?, mailer: Mailer&#10;){&#10;    TODO()&#10;}&#10;&#10;class Client (val personalInfo: PersonalInfo?)&#10;class PersonalInfo (val email: String?)&#10;interface Mailer {&#10;    fun sendMessage(email: String, message: String)&#10;}&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -664,7 +664,7 @@
                       <option name="index" value="9" />
                       <option name="name" value="Smart casts" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -686,13 +686,13 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
+                                      <option name="length" value="10" />
                                       <option name="offset" value="72" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="expr.value" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                     </AnswerPlaceholder>
                                     <AnswerPlaceholder>
@@ -709,18 +709,18 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
-                                      <option name="offset" value="101" />
+                                      <option name="length" value="34" />
+                                      <option name="offset" value="105" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="eval(expr.left) + eval(expr.right)" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="fun eval(expr: Expr): Int =&#10;        when (expr) {&#10;            is Num -&gt; TODO()&#10;            is Sum -&gt; TODO()&#10;            else -&gt; throw IllegalArgumentException(&quot;Unknown expression&quot;)&#10;        }&#10;&#10;interface Expr&#10;class Num(val value: Int) : Expr&#10;class Sum(val left: Expr, val right: Expr) : Expr&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -760,7 +760,7 @@
                       <option name="index" value="10" />
                       <option name="name" value="Extension functions" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -782,13 +782,13 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
-                                      <option name="offset" value="30" />
+                                      <option name="length" value="24" />
+                                      <option name="offset" value="29" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="RationalNumber(this, 1)" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                     </AnswerPlaceholder>
                                     <AnswerPlaceholder>
@@ -805,18 +805,18 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
-                                      <option name="offset" value="78" />
+                                      <option name="length" value="29" />
+                                      <option name="offset" value="95" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="RationalNumber(first, second)" />
                                       <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="fun Int.r(): RationalNumber = TODO()&#10;fun Pair&lt;Int, Int&gt;.r(): RationalNumber = TODO()&#10;&#10;data class RationalNumber(val numerator: Int, val denominator: Int)&#10;" />
                                 <option name="trackChanges" value="true" />

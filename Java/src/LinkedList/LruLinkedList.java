@@ -9,7 +9,7 @@ public class LruLinkedList<T> {
 
     private static final int DEFAULT_CAPACITY = 16;
 
-    private int capacity = DEFAULT_CAPACITY;
+    private int capacity;
 
     private int length;
 
@@ -23,8 +23,7 @@ public class LruLinkedList<T> {
     }
 
     public LruLinkedList() {
-        this.headNode = new Node<>();
-        this.length = 0;
+        this(DEFAULT_CAPACITY);
     }
 
     public int getLength() {
@@ -99,6 +98,7 @@ public class LruLinkedList<T> {
 
     /**
      * 从开头插入数据
+     *
      * @param data
      */
     private void insertFromHead(T data) {
@@ -168,10 +168,12 @@ public class LruLinkedList<T> {
     public static void main(String[] args) {
         LruLinkedList<Integer> lruLinkedList = new LruLinkedList<>();
         Scanner sc = new Scanner(System.in);
+        System.out.println("Input -1 to quit");
+        int input;
         while (true) {
-            System.out.println("Input -1 to quit");
-            if (-1 == sc.nextInt()) break;
-            lruLinkedList.addData(sc.nextInt());
+            input = sc.nextInt();
+            if (-1 == input) break;
+            lruLinkedList.addData(input);
             System.out.println("Total length is: " + lruLinkedList.getLength() + "\n" + lruLinkedList.toString());
         }
     }
