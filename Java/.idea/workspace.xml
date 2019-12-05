@@ -2,160 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2df3264c-2906-4f26-8f94-e0116e41df04" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/LruArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/kotlin_study_twitter_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_61.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_61.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_61.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_3_61.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Builders/Builders how it works/Builders-Builders_how_it_works.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Builders/Builders how it works/Builders-Builders_how_it_works_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Builders/Builders how it works/Builders-Builders_how_it_works_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Builders/Function literals with receiver/Builders-Function_literals_with_receiver.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Builders/Function literals with receiver/Builders-Function_literals_with_receiver_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Builders/Function literals with receiver/Builders-Function_literals_with_receiver_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Builders/Html builders/Builders-Html_builders.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Builders/Html builders/Builders-Html_builders_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Builders/Html builders/Builders-Html_builders_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Builders/String and map builders/Builders-String_and_map_builders.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Builders/String and map builders/Builders-String_and_map_builders_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Builders/String and map builders/Builders-String_and_map_builders_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Builders/The function apply/Builders-The_function_apply.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Builders/The function apply/Builders-The_function_apply_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Builders/The function apply/Builders-The_function_apply_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/All Any and other predicates/Collections-All_Any_and_other_predicates.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/All Any and other predicates/Collections-All_Any_and_other_predicates_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/All Any and other predicates/Collections-All_Any_and_other_predicates_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Compound tasks/Collections-Compound_tasks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Compound tasks/Collections-Compound_tasks_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Compound tasks/Collections-Compound_tasks_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Filter map/Collections-Filter_map.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Filter map/Collections-Filter_map_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Filter map/Collections-Filter_map_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/FlatMap/Collections-FlatMap.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/FlatMap/Collections-FlatMap_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/FlatMap/Collections-FlatMap_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Fold/Collections-Fold.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Fold/Collections-Fold_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Fold/Collections-Fold_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Get used to new style/Collections-Get_used_to_new_style.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Get used to new style/Collections-Get_used_to_new_style_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Get used to new style/Collections-Get_used_to_new_style_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/GroupBy/Collections-GroupBy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/GroupBy/Collections-GroupBy_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/GroupBy/Collections-GroupBy_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Introduction/Collections-Introduction.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Introduction/Collections-Introduction_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Introduction/Collections-Introduction_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Max min/Collections-Max_min.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Max min/Collections-Max_min_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Max min/Collections-Max_min_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Partition/Collections-Partition.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Partition/Collections-Partition_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Partition/Collections-Partition_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Sort/Collections-Sort.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Sort/Collections-Sort_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Sort/Collections-Sort_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Sum/Collections-Sum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Sum/Collections-Sum_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Sum/Collections-Sum_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/Comparison/Conventions-Comparison.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/Comparison/Conventions-Comparison_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/Comparison/Conventions-Comparison_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/Destructuring declarations/Conventions-Destructuring_declarations.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/Destructuring declarations/Conventions-Destructuring_declarations_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/Destructuring declarations/Conventions-Destructuring_declarations_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/For loop/Conventions-For_loop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/For loop/Conventions-For_loop_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/For loop/Conventions-For_loop_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/In range/Conventions-In_range.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/In range/Conventions-In_range_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/In range/Conventions-In_range_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/Invoke/Conventions-Invoke.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/Invoke/Conventions-Invoke_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/Invoke/Conventions-Invoke_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/Operators overloading/Conventions-Operators_overloading.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/Operators overloading/Conventions-Operators_overloading_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/Operators overloading/Conventions-Operators_overloading_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/Range to/Conventions-Range_to.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/Range to/Conventions-Range_to_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/Range to/Conventions-Range_to_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Generics/Generic functions/Generics-Generic_functions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Generics/Generic functions/Generics-Generic_functions_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Generics/Generic functions/Generics-Generic_functions_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Data classes/Introduction-Data_classes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Data classes/Introduction-Data_classes_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Data classes/Introduction-Data_classes_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Default arguments/Introduction-Default_arguments.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Default arguments/Introduction-Default_arguments_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Default arguments/Introduction-Default_arguments_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Extension functions/Introduction-Extension_functions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Extension functions/Introduction-Extension_functions_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Extension functions/Introduction-Extension_functions_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Extensions on collections/Introduction-Extensions_on_collections.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Extensions on collections/Introduction-Extensions_on_collections_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Extensions on collections/Introduction-Extensions_on_collections_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Hello, world!/Introduction-Hello,_world!.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Hello, world!/Introduction-Hello,_world!_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Hello, world!/Introduction-Hello,_world!_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Java to Kotlin conversion/Introduction-Java_to_Kotlin_conversion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Java to Kotlin conversion/Introduction-Java_to_Kotlin_conversion_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Java to Kotlin conversion/Introduction-Java_to_Kotlin_conversion_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Lambdas/Introduction-Lambdas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Lambdas/Introduction-Lambdas_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Lambdas/Introduction-Lambdas_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Named arguments/Introduction-Named_arguments.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Named arguments/Introduction-Named_arguments_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Named arguments/Introduction-Named_arguments_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Nullable types/Introduction-Nullable_types.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Nullable types/Introduction-Nullable_types_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Nullable types/Introduction-Nullable_types_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Object expressions/Introduction-Object_expressions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Object expressions/Introduction-Object_expressions_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Object expressions/Introduction-Object_expressions_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/SAM conversions/Introduction-SAM_conversions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/SAM conversions/Introduction-SAM_conversions_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/SAM conversions/Introduction-SAM_conversions_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Smart casts/Introduction-Smart_casts.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Smart casts/Introduction-Smart_casts_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Smart casts/Introduction-Smart_casts_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Strings/Introduction-Strings.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Strings/Introduction-Strings_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Strings/Introduction-Strings_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Properties/Delegates examples/Properties-Delegates_examples.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Properties/Delegates examples/Properties-Delegates_examples_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Properties/Delegates examples/Properties-Delegates_examples_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Properties/Delegates how it works/Properties-Delegates_how_it_works.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Properties/Delegates how it works/Properties-Delegates_how_it_works_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Properties/Delegates how it works/Properties-Delegates_how_it_works_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Properties/Lazy property/Properties-Lazy_property.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Properties/Lazy property/Properties-Lazy_property_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Properties/Lazy property/Properties-Lazy_property_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Properties/Properties/Properties-Properties.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Properties/Properties/Properties-Properties_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Properties/Properties/Properties-Properties_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/util/util.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/util/util_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/util/util_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c11_sorts/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c11_sorts/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c11_sorts/SelectionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/LruLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/LruLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Koans/.idea/Kotlin_Koans.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/Kotlin_Koans.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Koans/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Koans/.idea/study_project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/study_project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Koans/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Koans/Introduction/Data classes/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin Koans/Introduction/Data classes/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Koans/Introduction/Default arguments/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin Koans/Introduction/Default arguments/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Koans/Introduction/Extension functions/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin Koans/Introduction/Extension functions/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Koans/Introduction/Lambdas/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin Koans/Introduction/Lambdas/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Koans/Introduction/Named arguments/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin Koans/Introduction/Named arguments/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Koans/Introduction/Nullable types/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin Koans/Introduction/Nullable types/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Koans/Introduction/Smart casts/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin Koans/Introduction/Smart casts/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kotlin Koans/Introduction/Strings/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin Koans/Introduction/Strings/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/LruArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/c06_linkedList/LruArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/LruLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/c06_linkedList/LruLinkedList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -167,29 +19,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LinkedList/LruLinkedList.java">
+        <entry file="file://$PROJECT_DIR$/src/c11_sorts/BubbleSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="175" column="39" selection-start-line="175" selection-start-column="39" selection-end-line="175" selection-end-column="39" />
+            <state relative-caret-position="385">
+              <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/c11_sorts/InsertionSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/LinkedList/LruArrayList.java">
+        <entry file="file://$PROJECT_DIR$/src/c11_sorts/SelectionSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1007">
-              <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
-              <folding>
-                <element signature="e#215#216#0" expanded="true" />
-                <element signature="e#248#249#0" expanded="true" />
-                <element signature="e#306#307#0" expanded="true" />
-                <element signature="e#344#345#0" expanded="true" />
-                <element signature="e#944#945#0" expanded="true" />
-                <element signature="e#982#983#0" expanded="true" />
-                <element signature="e#1013#1014#0" expanded="true" />
-                <element signature="e#1062#1063#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="405">
+              <caret line="27" column="49" lean-forward="true" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/c06_linkedList/LruArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="98" column="4" selection-start-line="98" selection-start-column="4" selection-end-line="98" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -211,13 +71,17 @@
       <list>
         <option value="$PROJECT_DIR$/src/LinkedList/LruLinkedList.java" />
         <option value="$PROJECT_DIR$/src/LinkedList/LruArrayList.java" />
+        <option value="$PROJECT_DIR$/src/c06_linkedList/LruArrayList.java" />
+        <option value="$PROJECT_DIR$/src/c11_sorts/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/c11_sorts/InsertionSort.java" />
+        <option value="$PROJECT_DIR$/src/c11_sorts/SelectionSort.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="811" />
+    <option name="height" value="812" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -227,7 +91,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -245,17 +108,24 @@
               <item name="Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
+              <item name="c06_linkedList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="c11_sorts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575103038180" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575544310773" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -274,13 +144,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LruArrayList">
-    <configuration name="LruArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.LruArrayList" />
+  <component name="RunManager" selected="Application.SelectionSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c11_sorts.BubbleSort" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedList.*" />
+          <option name="PATTERN" value="c11_sorts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c11_sorts.InsertionSort" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="c11_sorts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LruArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c06_linkedList.LruArrayList" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="c06_linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -289,11 +185,24 @@
       </method>
     </configuration>
     <configuration name="LruLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.LruLinkedList" />
+      <option name="MAIN_CLASS_NAME" value="c06_linkedList.LruLinkedList" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedList.*" />
+          <option name="PATTERN" value="c06_linkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c11_sorts.SelectionSort" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="c11_sorts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -303,6 +212,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SelectionSort" />
+        <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.LruArrayList" />
         <item itemvalue="Application.LruLinkedList" />
       </list>
@@ -322,10 +234,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="815" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="812" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22603719" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23175965" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -335,7 +246,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32916668" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32780084" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21666667" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.54206896" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -344,7 +255,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32916668" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -357,27 +268,38 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LinkedList/LruLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/c06_linkedList/LruLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
+        <state relative-caret-position="640">
           <caret line="175" column="39" selection-start-line="175" selection-start-column="39" selection-end-line="175" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedList/LruArrayList.java">
+    <entry file="file://$PROJECT_DIR$/src/c06_linkedList/LruArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1007">
-          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
-          <folding>
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#344#345#0" expanded="true" />
-            <element signature="e#944#945#0" expanded="true" />
-            <element signature="e#982#983#0" expanded="true" />
-            <element signature="e#1013#1014#0" expanded="true" />
-            <element signature="e#1062#1063#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="370">
+          <caret line="98" column="4" selection-start-line="98" selection-start-column="4" selection-end-line="98" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/c11_sorts/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/c11_sorts/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/c11_sorts/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="49" lean-forward="true" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
         </state>
       </provider>
     </entry>
